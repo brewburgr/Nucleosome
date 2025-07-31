@@ -1,8 +1,11 @@
 # Nucleosome
-Code collection for Nucleosome pattern project
+Code collection for Nucleosome pattern project from my Bachelor's Thesis.
 
+Results partially published in [Superstructure Detection in Nucleosome Distribution Shows Common Pattern within a Chromosome and within the Genome](https://www.mdpi.com/2075-1729/12/4/541)
 
-In BA_functions.py, a number of functions are defined and used throughout the code. Here they are explained:
+# Structure
+
+In BA_functions.py, a number of functions are defined and used throughout the notebooks. Here they are explained:
 (The ones that are not so releveantat this point are put in brackets, i.e. they are not really relevant anymore but i still kept them for documenting reasons. I will probably sort them out at the end of this project, but right now it is not foreseeable if they will be needed again.)
 A better ordering is on its way, up until now i only added them consecutively
 
